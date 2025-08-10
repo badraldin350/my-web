@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>معلومات بدر الدين</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            text-align: center;
+            padding: 20px;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            margin: auto;
+            max-width: 400px;
+            border-radius: 15px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+        }
+        h1 {
+            color: #333;
+        }
+        a {
+            display: block;
+            margin: 10px 0;
+            padding: 10px;
+            text-decoration: none;
+            color: white;
+            border-radius: 8px;
+        }
+        .facebook { background-color: #1877f2; }
+        .whatsapp { background-color: #25d366; }
+        .email { background-color: #ff9800; }
+        .sms { background-color: #009688; }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>بدر الدين</h1>
+        <p>📞 01211378395</p>
+        <p>📧 badraldin656@gmail.com</p>
+
+        <a class="facebook" href="https://www.facebook.com/share/14Gh43q2gUk/" target="_blank">فيس بوك</a>
+        <a class="whatsapp" href="https://wa.me/201211378395" target="_blank">واتساب</a>
+        <a class="email" href="mailto:badraldin656@gmail.com">إرسال إيميل</a>
+        <a class="sms" href="sms:01211378395">إرسال رسالة SMS</a>
+    </div>
+
+</body>
+</html>
